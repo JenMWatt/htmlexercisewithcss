@@ -1,0 +1,48 @@
+.positioned {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+   border: 20px;
+   width: 320px;
+   height: 220px;
+   border-style: groove;
+   border-radius: 20px;
+
+  }
+  
+body {display: flex;
+    background-color: rgb(130, 186, 236);
+    align-items: center;
+    justify-content: space-between ;
+    
+  
+}
+.property {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1em;
+    border-style: groove;
+    border-radius: ;
+}
+.navbar{
+    width: 10em;
+    height: 3em;
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 10px;
+    border-radius: 100px;
+    border-style: groove;
+    border-color: blueviolet;  
+ 
+}
+    
+.title {
+        display: flex;
+        justify-content: center;
+        border: 10px;
+        border-radius: 100px;
+        border-style: groove;
+        border-color: blueviolet;
+}
